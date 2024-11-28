@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Entities\GoldenRaspberryAwards.Entities.csproj" />
     <ProjectReference Include="..\GoldenRaspberryAwards.Entities\GoldenRaspberryAwards.Entities.csproj" />
   </ItemGroup>
 

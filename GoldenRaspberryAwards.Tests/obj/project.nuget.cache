@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "jy2m01YJlHw=",
-  "success": false,
+  "dgSpecHash": "kQ7EY0SA11o=",
+  "success": true,
   "projectFilePath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Tests\\GoldenRaspberryAwards.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edgard.moreno\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
@@ -106,15 +106,6 @@
     "C:\\Users\\edgard.moreno\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
     {
       "code": "NU1903",
       "level": "Warning",

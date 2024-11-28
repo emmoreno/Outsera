@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "IdQid9oYEac=",
-  "success": false,
+  "dgSpecHash": "zzqfc++T9ro=",
+  "success": true,
   "projectFilePath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\GoldenRaspberryAwards.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edgard.moreno\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
@@ -13,15 +13,5 @@
     "C:\\Users\\edgard.moreno\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\edgard.moreno\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

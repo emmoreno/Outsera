@@ -1967,7 +1967,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj": "1.0.0",
           "CsvHelper": "33.0.1",
           "GoldenRaspberryAwards.Entities": "1.0.0",
           "Microsoft.Data.Sqlite": "9.0.0"
@@ -6154,15 +6153,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
     {
       "code": "NU1903",
       "level": "Warning",
