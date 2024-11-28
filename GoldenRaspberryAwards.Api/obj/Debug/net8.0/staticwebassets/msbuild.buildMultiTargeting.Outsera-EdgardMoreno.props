@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Outsera-EdgardMoreno.props" />
+</Project>

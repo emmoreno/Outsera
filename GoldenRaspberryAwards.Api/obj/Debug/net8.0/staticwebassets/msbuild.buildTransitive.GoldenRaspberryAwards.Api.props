@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GoldenRaspberryAwards.Api.props" />
+</Project>

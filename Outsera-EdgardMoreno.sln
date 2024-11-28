@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Api", "GoldenRaspberryAwards.Api\GoldenRaspberryAwards.Api.csproj", "{371DA327-123A-4D19-9A1B-91A5C0298BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Entities", "GoldenRaspberryAwards.Entities\GoldenRaspberryAwards.Entities.csproj", "{A15C4C92-B775-4E41-BB97-ED8C55A690E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Repository", "GoldenRaspberryAwards.Repository\GoldenRaspberryAwards.Repository.csproj", "{44CFC628-E5D9-49C8-8205-49B52DCF6871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Services", "GoldenRaspberryAwards.Services\GoldenRaspberryAwards.Services.csproj", "{F73B61F7-B919-422E-AD21-F9C314E8CCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenRaspberryAwards.Tests", "GoldenRaspberryAwards.Tests\GoldenRaspberryAwards.Tests.csproj", "{9E980859-6CF9-44C6-A6B6-AD6EAE88EC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371DA327-123A-4D19-9A1B-91A5C0298BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371DA327-123A-4D19-9A1B-91A5C0298BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371DA327-123A-4D19-9A1B-91A5C0298BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371DA327-123A-4D19-9A1B-91A5C0298BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15C4C92-B775-4E41-BB97-ED8C55A690E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15C4C92-B775-4E41-BB97-ED8C55A690E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15C4C92-B775-4E41-BB97-ED8C55A690E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15C4C92-B775-4E41-BB97-ED8C55A690E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CFC628-E5D9-49C8-8205-49B52DCF6871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CFC628-E5D9-49C8-8205-49B52DCF6871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CFC628-E5D9-49C8-8205-49B52DCF6871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CFC628-E5D9-49C8-8205-49B52DCF6871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73B61F7-B919-422E-AD21-F9C314E8CCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73B61F7-B919-422E-AD21-F9C314E8CCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73B61F7-B919-422E-AD21-F9C314E8CCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73B61F7-B919-422E-AD21-F9C314E8CCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E980859-6CF9-44C6-A6B6-AD6EAE88EC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E980859-6CF9-44C6-A6B6-AD6EAE88EC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E980859-6CF9-44C6-A6B6-AD6EAE88EC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E980859-6CF9-44C6-A6B6-AD6EAE88EC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

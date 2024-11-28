@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "GoldenRaspberryAwards.Api.Controllers.IntervaloPremiosController",
+    "Method": "Get",
+    "RelativePath": "IntervaloPremios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GoldenRaspberryAwards.Entities.IntervaloPremioEntity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Obter Intervalo de premios"
+  }
+]

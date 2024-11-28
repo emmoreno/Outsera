@@ -1,0 +1,15 @@
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\bin\Debug\net8.0\GoldenRaspberryAwards.Repository.deps.json
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\bin\Debug\net8.0\GoldenRaspberryAwards.Repository.dll
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\bin\Debug\net8.0\GoldenRaspberryAwards.Repository.pdb
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\bin\Debug\net8.0\GoldenRaspberryAwards.Entities.dll
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\bin\Debug\net8.0\GoldenRaspberryAwards.Entities.pdb
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.csproj.AssemblyReference.cache
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.AssemblyInfoInputs.cache
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.AssemblyInfo.cs
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.csproj.CoreCompileInputs.cache
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRa.DFF0BD2F.Up2Date
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.dll
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\refint\GoldenRaspberryAwards.Repository.dll
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\GoldenRaspberryAwards.Repository.pdb
+C:\Users\edgard.moreno\source\repos\Outsera-EdgardMoreno\GoldenRaspberryAwards.Repository\obj\Debug\net8.0\ref\GoldenRaspberryAwards.Repository.dll

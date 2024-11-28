@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xPHfndZ7NOUWd+PdFn9iBAEKuvgSBLwXi/uL3x8Eb2M=",
+  "Source": "GoldenRaspberryAwards.Api",
+  "BasePath": "_content/GoldenRaspberryAwards.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

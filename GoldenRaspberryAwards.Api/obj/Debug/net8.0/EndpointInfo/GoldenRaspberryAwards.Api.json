@@ -1,0 +1,86 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Golden Raspberry Awards - Api v1",
+    "description": "Intervalo de prêmios.",
+    "version": "v1"
+  },
+  "paths": {
+    "/IntervaloPremios": {
+      "get": {
+        "tags": [
+          "IntervaloPremios"
+        ],
+        "operationId": "Obter Intervalo de premios",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoldenRaspberryAwards.Entities.IntervaloPremioEntity"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoldenRaspberryAwards.Entities.IntervaloPremioEntity"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoldenRaspberryAwards.Entities.IntervaloPremioEntity"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "GoldenRaspberryAwards.Entities.IntervaloPremioEntity": {
+        "type": "object",
+        "properties": {
+          "max": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GoldenRaspberryAwards.Entities.ProdutorEntity"
+            },
+            "nullable": true
+          },
+          "min": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GoldenRaspberryAwards.Entities.ProdutorEntity"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "GoldenRaspberryAwards.Entities.ProdutorEntity": {
+        "type": "object",
+        "properties": {
+          "producer": {
+            "type": "string",
+            "nullable": true
+          },
+          "interval": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "previousWin": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "followingWin": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

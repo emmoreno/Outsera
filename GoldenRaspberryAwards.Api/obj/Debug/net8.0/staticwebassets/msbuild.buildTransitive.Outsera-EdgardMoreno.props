@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Outsera-EdgardMoreno.props" />
+</Project>

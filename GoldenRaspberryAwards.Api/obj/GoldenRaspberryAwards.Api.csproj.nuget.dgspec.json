@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj",
+        "projectName": "GoldenRaspberryAwards.Api",
+        "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Api\\GoldenRaspberryAwards.Api.csproj",
+        "packagesPath": "C:\\Users\\edgard.moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edgard.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj": {
+                "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj"
+              },
+              "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\GoldenRaspberryAwards.Services.csproj": {
+                "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\GoldenRaspberryAwards.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj",
+        "projectName": "GoldenRaspberryAwards.Entities",
+        "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj",
+        "packagesPath": "C:\\Users\\edgard.moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edgard.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj",
+        "projectName": "GoldenRaspberryAwards.Repository",
+        "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj",
+        "packagesPath": "C:\\Users\\edgard.moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edgard.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj": {
+                "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\Entities\\GoldenRaspberryAwards.Entities.csproj"
+              },
+              "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj": {
+                "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\GoldenRaspberryAwards.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\GoldenRaspberryAwards.Services.csproj",
+        "projectName": "GoldenRaspberryAwards.Services",
+        "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\GoldenRaspberryAwards.Services.csproj",
+        "packagesPath": "C:\\Users\\edgard.moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edgard.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj": {
+                "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj"
+              },
+              "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj": {
+                "projectPath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Repository\\GoldenRaspberryAwards.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

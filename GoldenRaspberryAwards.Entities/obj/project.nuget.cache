@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s32AoatTpOo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edgard.moreno\\source\\repos\\Outsera\\GoldenRaspberryAwards.Entities\\GoldenRaspberryAwards.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgard.moreno\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
