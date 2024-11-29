@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoldenRaspberryAwards.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+649a0c1ece68f38f0d0a41c8727eaa8390cd8f1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d2ebf276238d1b28f8eace1a2fbf5c05b20fa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoldenRaspberryAwards.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoldenRaspberryAwards.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

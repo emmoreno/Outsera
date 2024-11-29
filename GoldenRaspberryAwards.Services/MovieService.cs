@@ -36,8 +36,8 @@ namespace GoldenRaspberryAwards.Services
             CalcularIntervaloPorProdutor(produtorVencedor, intervalos);
 
             var intervaloPremios = new IntervaloPremioEntity();
-            intervaloPremios.Max.Add(intervalos.OrderByDescending(i => i.Interval).FirstOrDefault());
-            intervaloPremios.Min.Add(intervalos.OrderBy(i => i.Interval).FirstOrDefault());
+            intervaloPremios.Max.Add(intervalos.MaxBy(i => i.Interval));
+            intervaloPremios.Min.Add(intervalos.MinBy(i => i.Interval));
 
             return intervaloPremios;
         }
